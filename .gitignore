@@ -1,0 +1,8 @@
+config.json
+workings.py
+*.txt
+*.csv
+*.idx
+*.bdb
+twitter
+aroliso
